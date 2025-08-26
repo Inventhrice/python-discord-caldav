@@ -2,7 +2,7 @@
 
 A quick and dirty python script that is designed to be used with a discord bot.
 
-> [!WARN]
+> [!WARNING]
 > This is an WIP script that is NOT ready for public consumption. Using this will require time to configure the code to do what you want it to do.
 
 ```
